@@ -2,7 +2,8 @@
 
 A beautifully formatted, printable Urdu alphabet learning and practice workbook (`حروفِ تہجی مشق کتاب`) covering the entire Urdu alphabet from Alif to Bari Yay (`الف` سے `ے` تک). Designed specifically for children and beginners, this workbook offers structured tracing, guided writing, and free-hand cursive writing practice.
 
-🔗 **GitHub Repository:** [aiocrafters/Urdu-Qaida-Complete-Workbook](https://github.com/aiocrafters/Urdu-Qaida-Complete-Workbook.git)
+🔗 **GitHub Repository:** [aiocrafters/Urdu-Qaida-Complete-Workbook](https://github.com/aiocrafters/Urdu-Qaida-Complete-Workbook.git)  
+🌐 **Live Preview:** [aiocrafters.github.io/Urdu-Qaida-Complete-Workbook](https://aiocrafters.github.io/Urdu-Qaida-Complete-Workbook/)
 
 ---
 
