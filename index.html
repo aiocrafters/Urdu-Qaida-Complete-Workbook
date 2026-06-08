@@ -32,20 +32,22 @@
             border: 1px solid #ddd;
             position: relative;
             overflow: hidden;
+            z-index: 1;
+            /* Establishes stacking context so watermark stacks on top of child backgrounds */
         }
 
         /* Watermark style */
         .page::before {
             content: "www.aiocrafters.com";
             position: absolute;
-            top: 50%;
+            top: 148.5mm; /* Centered in the middle of the A4 page height (297mm) */
             left: 50%;
             transform: translate(-50%, -50%) rotate(-30deg);
-            font-size: 50px;
+            font-size: 55px;
             font-family: 'Noto Sans Arabic', sans-serif;
             font-weight: bold;
-            color: rgba(148, 163, 184, 0.05);
-            /* Very subtle slate-gray */
+            color: rgba(148, 163, 184, 0.06);
+            /* Subtle slate-gray on top of elements */
             white-space: nowrap;
             pointer-events: none;
             z-index: 10;
