@@ -58,7 +58,7 @@ Each letter is allocated a dedicated A4-sized practice page with a consistent, d
    - Displays a very light gray letter template in the center of the box to act as a visual baseline and structure guide for self-writing.
 
 5. **Independent Cursive Writing (آزادانہ مشق)**:
-   - Includes **5 wide, ruled lines** at the bottom of the page, allowing free-hand practice of connecting letters, writing full words, or practicing cursive strokes.
+   - Includes **10 wide, ruled lines** at the bottom of the page, allowing free-hand practice of connecting letters, writing full words, or practicing cursive strokes.
 
 6. **Fully Printable**:
    - Optimized with A4 physical dimensions (`210mm x 297mm`) and specific print stylesheets (`@media print`).
