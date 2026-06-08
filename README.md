@@ -174,7 +174,7 @@ http://localhost:8000/index.html
 
 ### 3. Export / Print to PDF
 1. Open the page in your browser (Chrome/Edge recommended).
-2. Press `Ctrl + P` (or Cmd + P on macOS) to open the print dialog.
+2. Click the floating blue **پرنٹ کریں / PDF بنائیں** (Print / Save as PDF) button in the bottom-left corner of the screen (or press `Ctrl + P` / `Cmd + P` on macOS).
 3. Set **Destination** to `Save as PDF`.
 4. Under **More Settings**:
    - Set **Paper size** to `A4`.
